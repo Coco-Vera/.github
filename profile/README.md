@@ -18,6 +18,6 @@ You can view our project poster below:
 
 <img src="./assets/poster-19206.jpg" alt="Project Poster" style="width:100%; max-width:800px;">
 
-And if you want to download it, here’s the <strong><a href="./assets/poster-19206.pdf" download>Download Poster PDF</a></strong>.
+And if you want to view it, here’s the <strong><a href="./assets/poster-19206.pdf" target="_blank">View Poster PDF</a></strong>.
 
-Additionally, you can check the written version of the poster by downloading the <strong><a href="./assets/poster-T-19206.pdf" download>Download Poster T PDF</a></strong> for a detailed explanation of the project.
+Additionally, you can check the written version of the poster by viewing the <strong><a href="./assets/poster-T-19206.pdf" target="_blank">View Poster T PDF</a></strong> for a detailed explanation of the project.
