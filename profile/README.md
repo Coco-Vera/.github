@@ -18,6 +18,6 @@ You can view our project poster below:
 
 <img src="./assets/poster-19206.jpg" alt="Project Poster" style="width:100%; max-width:800px;">
 
-And if you want to download it, here’s the **[Poster PDF](./assets/poster-19206.pdf){:target="\_blank" download}**.
+And if you want to download it, here’s the **[Download Poster PDF](./assets/poster-19206.pdf){:target="\_blank" download}**.
 
-Additionally, you can check the written version of the poster (**[Poster T](./assets/poster-T-19206.pdf){:target="\_blank" download}**) for a detailed explanation of the project.
+Additionally, you can check the written version of the poster (**[Download Poster T PDF](./assets/poster-T-19206.pdf){:target="\_blank" download}**) for a detailed explanation of the project.
